@@ -8,7 +8,7 @@ https://youtu.be/ieUsuDsQY0o
 
 ### Description:
 
-In this tutorial, you'll dive into the world of Server-Sent Events (SSE) with a hands-on approach. We'll guide you through setting up an Express.js server to handle SSE events and creating a simple HTML and JavaScript frontend to manage SSE event streams using EventSource.
+In this tutorial, we will dive into the world of Server-Sent Events (SSE) with a hands-on approach. I will guide you through setting up an Express.js server to handle SSE events and creating a simple HTML and JavaScript frontend to manage SSE event streams using EventSource.
 
 🔍 What You'll Learn:
 
